@@ -1,5 +1,5 @@
 <?php
-  include_once("./templates/header.php")
+  include_once("./templates/header.php");
 ?>
 
 <body>
@@ -13,7 +13,7 @@
         <div class="post-box">
           <img src="<?= $BASE_URL ?>/img/<?= $post['img'] ?>" alt="<?= $post['title'] ?>">
           <h2 class="post-title">
-            <a href="<?= $BASE_URL ?>post.php?id=<? $post['id'] ?>"><?= $post['title'] ?></a>
+            <a href="<?= $BASE_URL ?>post.php?id=<?= $post['id'] ?>"><?= $post['title'] ?></a>
           </h2>
           <p class="post-description"><?= $post['description'] ?> </p>
           <div class="tags-container">
@@ -28,5 +28,5 @@
 </body>  
 
 <?php
-  include_once("./templates/footer.php")
+  include_once("./templates/footer.php");
 ?>
