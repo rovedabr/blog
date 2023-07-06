@@ -17,9 +17,9 @@ Para criação da aplicação foram utilizadas todas as tecnologias aprendidas d
 
 *Mobile*
 
-![página1](image-1.png){ width=50% }
-![página2](image-2.png){ width=50% }
-![página3](image-3.png){ width=50% }
+![página1](image-1.png)
+![página2](image-2.png)
+![página3](image-3.png)
 
 
 *Web*
