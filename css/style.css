@@ -246,6 +246,148 @@ main {
   font-weight: bold;
 }
 
+.categories {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+#categoriesPage {
+  font-size: 3.5rem;
+  line-height: 3rem;
+  font-weight: bold;
+
+
+  text-align: center;
+  margin-top: 5rem;
+  color: #fff;
+
+  background-color: #161616;
+  padding: 2rem;
+  width: 50%;
+  border-radius: 2rem;
+}
+
+#categoriesPageList {
+  width: 50%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 3rem;
+}
+
+#categoriesPageList li {
+  list-style: none;
+  width: 100%;
+  text-align: center;
+  margin-bottom: 1rem;
+  padding: 1.5rem;
+  background-color: #49464b;
+  border-radius: 2rem;
+}
+
+#categoriesPageList li:hover {
+  background-color: #7c5794;
+  transition: .5s ease-in-out;  
+}
+
+#categoriesPageList li a {
+  text-decoration: none;
+  font-size: 2.5rem;
+  color: #fff;  
+}
+
+#categoriesPageList li a:hover {
+  font-weight: 700;
+}
+
+.container-about {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.about {
+  width: 70%;
+  text-align: justify;
+}
+
+.about h3 {
+  margin-top: 3rem;
+  margin-bottom: 2rem;
+  font-size: 2.5rem;
+  text-align: center;
+}
+
+.about p {
+  font-size: 1.5rem;
+  line-height: 3rem;
+}
+
+.contacts-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.contacts-container h3 {
+  margin-top: 3rem;
+  margin-bottom: 2rem;
+  font-size: 2.5rem;
+  text-align: center;
+}
+
+.contact a input {
+  width: 10rem;
+  margin-top: 2rem;
+  margin-inline: 2rem;
+}
+
+.icons {
+  position: fixed;
+  right: 2rem;
+  bottom: 10rem;
+
+  padding: 1rem;
+  background-color: #3e3f4b;
+  border-radius: 2rem;
+}
+
+.contact2 h3 {
+  width: 10rem;
+  margin-top: 3rem;
+  margin-inline: 2rem;
+}
+
+.contact2 a input {
+  width: 10rem;
+  margin-top: 2rem;
+  margin-inline: 2rem;
+}
+
+.course-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+  margin-top: 15rem;
+}
+
+.course-container h3 {
+  font-size: 2rem;
+  margin-top: 2rem;
+}
+
+.course-container a input {
+  width: 10rem;
+}
+
+.course-container a #icon {
+  width: 20rem;
+}
+
 footer {
   width: 100%;
   position: absolute;

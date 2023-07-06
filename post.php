@@ -23,11 +23,7 @@
       <img src="<?= $BASE_URL ?>/img/<?= $currentPost['img'] ?>" alt="<?= $currentPost['title'] ?>">
     </div>
     <div class="post-content">
-      <p id="text-container">
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure recusandae non eum officia praesentium eligendi quidem similique ut beatae ab quibusdam provident, corporis maiores nam cumque, cum, possimus rerum exercitationem.
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure recusandae non eum officia praesentium eligendi quidem similique ut beatae ab quibusdam provident, corporis maiores nam cumque, cum, possimus rerum exercitationem.
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure recusandae non eum officia praesentium eligendi quidem similique ut beatae ab quibusdam provident, corporis maiores nam cumque, cum, possimus rerum exercitationem.
-      </p>
+      <p id="text-container"><?= $currentPost['text'] ?></p>
     </div>
   </div>
     <aside id="nav-container">
