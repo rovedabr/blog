@@ -7,12 +7,6 @@
 O Blog Bora Codar é uma aplicação completa desenvolvida em PHP através do curso PHP do Zero a Maestria pela Udemy.
 Para criação da aplicação foram utilizadas todas as tecnologias aprendidas durante o curso, criando um blog fictício utilizando o conceito  de layout responsivo.
 
-
-## Deploy
-
-- Site:  
-
-
 ## Imagens
 
 *Mobile*
