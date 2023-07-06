@@ -15,16 +15,7 @@ Para criação da aplicação foram utilizadas todas as tecnologias aprendidas d
 
 ## Imagens
 
-![página1](![image](https://github.com/rovedabr/blog/assets/118762335/0f61b3a2-35f6-406c-838b-b91d55914eac)
-)
-![página2](![image](https://github.com/rovedabr/blog/assets/118762335/7e11e743-7c6a-4a8e-915e-992ae50b3e77)
-)
-![página3](![image](https://github.com/rovedabr/blog/assets/118762335/255d73ed-ef08-4d3f-a90d-4e412e5e12dd)
-)
-![página4](![image](https://github.com/rovedabr/blog/assets/118762335/9c4d5c98-d66f-43aa-a053-a8d70f65db23)
-)
-[página5](![image](https://github.com/rovedabr/blog/assets/118762335/15fbd5aa-e540-48b8-b142-f1b16e8afafb)
-)
+
 
 
 
