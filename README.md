@@ -1,6 +1,5 @@
  <p align="center">
  <h1>Blog - Bora Codar </h1>
- <img src="./img/logo.svg"/>
  </p>
 
 ## Front-End 
