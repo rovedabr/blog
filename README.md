@@ -15,7 +15,18 @@ Para criação da aplicação foram utilizadas todas as tecnologias aprendidas d
 
 ## Imagens
 
+*Mobile*
 ![página1](image-1.png)
+![página2](image-2.png)
+![página3](image-3.png)
+
+*Web*
+![pag4](image-4.png)
+![pag5](image-5.png)
+![pag6](image-6.png)
+
+
+
 
 
 ## Tecnologias empregadas
