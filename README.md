@@ -17,19 +17,11 @@ Para criação da aplicação foram utilizadas todas as tecnologias aprendidas d
 
 *Mobile*
 
-![página1](image-1.png)
-![página2](image-2.png)
-![página3](image-3.png)
-
+<img src="./github/img1.png" alt="Imagem 1">
 
 *Web*
 
-![pag4](image-4.png)
-![pag5](image-5.png)
-![pag6](image-6.png)
-
-
-
+<img src="./github/img2.png" alt="Imagem 2">
 
 
 ## Tecnologias empregadas
